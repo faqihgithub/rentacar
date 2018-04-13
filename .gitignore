@@ -27,5 +27,5 @@ application/config/database.php
 
 ### SQL backup files ###
 # local config
-.htaccess
-application/config/database.php
+#.htaccess
+#application/config/database.php
