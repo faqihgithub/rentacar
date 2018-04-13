@@ -20,7 +20,7 @@ application/composer.lock
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
-application/config/database.php
+#application/config/database.php
 
 ## Source map files (local gulp tasks will still produce .map for debug use) ###
 *.map
