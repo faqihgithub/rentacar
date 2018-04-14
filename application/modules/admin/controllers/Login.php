@@ -1,6 +1,8 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
 // NOTE: this controller inherits from MY_Controller instead of Admin_Controller,
 // since no authentication is required
 class Login extends MY_Controller {

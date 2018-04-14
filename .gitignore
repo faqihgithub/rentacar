@@ -28,4 +28,4 @@ application/composer.lock
 ### SQL backup files ###
 # local config
 #.htaccess
-#application/config/database.php
+application/config/database.php
